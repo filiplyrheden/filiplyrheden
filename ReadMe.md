@@ -15,7 +15,7 @@ I'm a web developer currently studying the full stack web developer program at Y
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** PHP, C#, Node.js
 - **Frameworks/libraries:** React, Laravel
-- **Database:** SQL, MongoDB
+- **Database:** SQL, MongoDB, Supabase
 
 I'm continuously learning and exploring new technologies to expand my skill set!
 
