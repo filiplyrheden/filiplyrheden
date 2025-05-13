@@ -11,11 +11,16 @@ I'm a web developer currently studying the full stack web developer program at Y
 
 🍲 📖 🏃‍♂️ 🎮 When I'm not coding I enjoy cooking, reading, running and video games.
 
-## 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** PHP, C#, Node.js
-- **Frameworks/libraries:** React, Laravel
-- **Database:** SQL, MongoDB, Supabase
+| Category                     | Tools & Tech                                                   |
+| ---------------------------- | -------------------------------------------------------------- |
+| **Languages**                | HTML · CSS · JavaScript · TypeScript · PHP · C# |
+| **Runtime / Platforms**      | Node.js                                                    |
+| **Frontend Frameworks & UI** | React · Next.js · Tailwind CSS                         |
+| **Backend Frameworks**       | Laravel |
+| **Databases & Data Layer**   | SQL · MongoDB · Supabase              |
+| **CMS / Headless**           | WordPress · Sanity                                      |
+| **Design & Prototyping**     | Figma                                                      |
+
 
 I'm continuously learning and exploring new technologies to expand my skill set!
 
