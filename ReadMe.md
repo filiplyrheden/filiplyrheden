@@ -11,6 +11,8 @@ I'm a web developer currently studying the full stack web developer program at Y
 
 🍲 📖 🏃‍♂️ 🎮 When I'm not coding I enjoy cooking, reading, running and video games.
 
+## 🛠️ Tech Stack
+
 | Category                     | Tools & Tech                                                   |
 | ---------------------------- | -------------------------------------------------------------- |
 | **Languages**                | HTML · CSS · JavaScript · TypeScript · PHP · C# |
