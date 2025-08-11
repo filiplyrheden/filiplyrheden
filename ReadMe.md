@@ -1,20 +1,20 @@
 # Hi! 👋
 
 ## 🤠 About me
-I'm a web developer currently studying the full stack web developer program at Yrgo in Gothenburg, Sweden. 
+Fullstack web developer student with a background in journalism — combining storytelling, design sense, and technical skills to create engaging and user-friendly digital experiences.
+
+📢 **Currently looking for a full-stack web development internship starting November 2025.
 
 💻 What I enjoy most about development is problem solving and using coding to find creative solutions. I really like the logical and structured approach to work that coding gives you.
 
 🎨 I also have a great interest in design, typography and user interfaces. 
 
-📰 In my previous work life I worked as a journalist, which gave me a great appreciation for good storytelling and presenting information to users in a nicely packaged and easy to understand way.
-
-🍲 📖 🏃‍♂️ 🎮 When I'm not coding I enjoy cooking, reading, running and video games.
+🍲 📖 🏃‍♂️ 🎮 When I'm not coding I enjoy cooking, reading, exercise and video games.
 
 ## 🛠️ Tech Stack
 
 **Languages**  
-&nbsp;&nbsp;• HTML &bullet; CSS &bullet; JavaScript (ES6+) &bullet; TypeScript &bullet; PHP &bullet; C#
+&nbsp;&nbsp;• HTML &bullet; CSS &bullet; JavaScript &bullet; TypeScript &bullet; PHP &bullet; C#
 
 **Runtime / Platform**  
 &nbsp;&nbsp;• Node.js
@@ -26,10 +26,10 @@ I'm a web developer currently studying the full stack web developer program at Y
 &nbsp;&nbsp;• Laravel
 
 **Databases & Data Layer**  
-&nbsp;&nbsp;• SQL (PostgreSQL / MySQL) &bullet; MongoDB &bullet; Supabase
+&nbsp;&nbsp;• SQL &bullet; MongoDB &bullet; Supabase
 
 **CMS / Headless**  
-&nbsp;&nbsp;• WordPress &bullet; Sanity IO
+&nbsp;&nbsp;• WordPress &bullet; Sanity
 
 **Design & Prototyping**  
 &nbsp;&nbsp;• Figma
