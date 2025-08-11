@@ -3,7 +3,7 @@
 ## 🤠 About me
 Fullstack web developer student with a background in journalism — combining storytelling, design sense, and technical skills to create engaging and user-friendly digital experiences.
 
-📢 **Currently looking for a full-stack web development internship starting November 2025.
+📢 **Currently looking for a full-stack web development internship starting November 2025.**
 
 💻 What I enjoy most about development is problem solving and using coding to find creative solutions. I really like the logical and structured approach to work that coding gives you.
 
